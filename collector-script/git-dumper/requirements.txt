@@ -1,4 +1,0 @@
-PySocks
-requests
-beautifulsoup4
-dulwich
